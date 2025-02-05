@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/varmans/static/css/main.b455b85a.css",
-    "main.js": "/varmans/static/js/main.2002905f.js",
+    "main.js": "/varmans/static/js/main.f2edc44f.js",
     "index.html": "/varmans/index.html",
     "main.b455b85a.css.map": "/varmans/static/css/main.b455b85a.css.map",
-    "main.2002905f.js.map": "/varmans/static/js/main.2002905f.js.map"
+    "main.f2edc44f.js.map": "/varmans/static/js/main.f2edc44f.js.map"
   },
   "entrypoints": [
     "static/css/main.b455b85a.css",
-    "static/js/main.2002905f.js"
+    "static/js/main.f2edc44f.js"
   ]
 }
