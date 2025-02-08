@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1>Welcome to the Varmans Family Homepage</h1>
+      <h1>Welcome to the Varmans Family Homepage!</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           You clicked {count} times
